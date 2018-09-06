@@ -1,6 +1,7 @@
 require 'set'
 
 require 'savon'
+require 'overrides/xml_utility_node'
 require 'netsuite/version'
 require 'netsuite/errors'
 require 'netsuite/utilities'
